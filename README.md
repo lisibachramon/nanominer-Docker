@@ -1,4 +1,2 @@
 # nanominer-Docker
-Nanominer for Docker
-1.
-`docker build -t nanominer .
+Install with docker build and edit config ini
